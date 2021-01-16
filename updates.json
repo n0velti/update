@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1610815652,
+      "filename": "lineage_enchilada-ota-eng.edward.zip",
+      "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
+      "romtype": "unofficial",
+      "size": 607037387,
+      "url": "https://example.com/ota-package.zip",
+      "version": "17.1"
+    }
+  ]
+}
