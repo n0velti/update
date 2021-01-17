@@ -2,10 +2,10 @@
   "response": [
     {
       "datetime": 1610815652,
-      "filename": "lineage_enchilada-ota-eng.edward.zip",
+      "filename": "lineage_enchilada-target_files-eng.edward.zip",
       "id": "5eb63bbbe01eeed093cb22bb8f5acdc3",
       "romtype": "unofficial",
-      "size": 607037387,
+      "size": 1527852333,
       "url": "https://drive.google.com/drive/folders/1wUhbtQso-Bp5EeHpDlWJqhqgM6-ovdWa?usp=sharing",
       "version": "17.1"
     }
