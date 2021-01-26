@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1611536482,
-      "filename": "signed-target_files.zip",
+      "datetime": 1611699433,
+      "filename": "signed-ota_update.zip",
       "id": "1234",
       "romtype": "unofficial",
-      "size": 1484007041,
-      "url": "https://www.androidfilehost.com/?fid=17248734326145722446",
+      "size": 608537550,
+      "url": "https://www.androidfilehost.com/?fid=17248734326145722808",
       "version": "17.1"
     }
   ]
