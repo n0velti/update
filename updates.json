@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1611699433,
-      "filename": "signed-ota_update.zip",
+      "datetime": 1611718350,
+      "filename": "lineage_enchilada-ota-eng.edward.zip",
       "id": "",
       "romtype": "unofficial",
-      "size": 608537550,
+      "size": 608362025,
       "url": "https://www.androidfilehost.com/?fid=17248734326145722808",
       "version": "17.1"
     }
